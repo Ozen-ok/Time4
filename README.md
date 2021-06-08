@@ -1,2 +1,2 @@
 # Time4
-Repositório do time 4 da disciplina de Estrutura de Dados Avançados.
+Repositório para atividades assíncronas do time 4 na disciplina de Estrutura de Dados Avançado (EDA).
